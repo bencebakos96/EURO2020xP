@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "EURO2020xP", "EURO2020xP.pyproj", "{7D50E3D9-BCD3-48F8-ABF9-D8E4D5BB0051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D50E3D9-BCD3-48F8-ABF9-D8E4D5BB0051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D50E3D9-BCD3-48F8-ABF9-D8E4D5BB0051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E28D2BA6-6EC7-44C3-B185-A83E9ACF916F}
+	EndGlobalSection
+EndGlobal
